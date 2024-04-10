@@ -1,0 +1,42 @@
+{
+    "name": "GABOL Ruleset",
+    "description": "Personalización del analizador de código",
+    "rules": [
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "No queremos que TODAS las páginas sean buscables"
+        },
+        {
+            "id": "AA0022",
+            "action": "None",
+            "justification": "No queremos cambiar los if por case"            
+        },
+        {
+            "id": "AA0005",
+            "action": "None",
+            "justification": "No queremos cambiar los begin end"            
+        }
+        ,
+        {
+            "id": "AW0009",
+            "action": "None",
+            "justification": "No queremos cambiar los campos BLOB por Media/Mediaset"            
+        } ,       
+        {
+            "id": "PTE0005",
+            "action": "None",
+            "justification": "La extensión va onPremise"
+        },
+        {
+            "id": "PTE0002",
+            "action": "None",
+            "justification": "La extensión va onPremise"            
+        },
+        {
+            "id": "AA0100",
+            "action": "None",
+            "justification": "Se debe permitir unsar controles que contengan dobles comillas del tipo variable.campo"            
+        }        
+    ]
+}

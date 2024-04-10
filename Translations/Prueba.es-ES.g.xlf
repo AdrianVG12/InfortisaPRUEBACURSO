@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="Prueba">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 517703158 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Codigo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Code - Property Caption</note>
+          <target>Codigo</target>
+        </trans-unit>
+        <trans-unit id="Table 517703158 - Field 3606140129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Customers - Property Caption</note>
+          <target>Clientes</target>
+        </trans-unit>
+        <trans-unit id="Table 517703158 - Field 4269821139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EnumTipo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Disponibilidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Disponibilidad - Property Caption</note>
+          <target>Disponibilidad</target>
+        </trans-unit>
+        <trans-unit id="Table 517703158 - Field 266002067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nacionalidad</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Nacionalidad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 517703158 - Field 266002067 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nacional,UE,Extranjero</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nacional, UE, Extranjero"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Nacionalidad - Property OptionCaption</note>
+          <target>Nacional, UE, Extranjero</target>
+        </trans-unit>
+        <trans-unit id="Table 517703158 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Localizaciones - Field Nombre - Property Caption</note>
+          <target>Nombre</target>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New CLient</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Property Caption</note>
+          <target>Nuevo Cliente</target>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Correo electronico del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Código almacen del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direccion del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 3993128796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre de contacto del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control Contact - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nombre del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2729385728 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero identificactivo del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewCustomer - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Property Caption</note>
+          <target>Nuevo Producto</target>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 2105307182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Inventory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 2454573350 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Existencia de sustitutivo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Substitutes Exist - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unidad de medida base</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 3123169861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº ruta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Routing No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº proveedor del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripcion del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 381961415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coste unitario del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Unit Cost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4212068885 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Precio venta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CardNewProduct - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers_formacion</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Clientes Formacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Property Caption</note>
+          <target>Clientes Formacion</target>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Campo balance ciente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Control 2273653569 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Campo codigo lenguaje ciente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Control Language Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Campo codigo localizacion ciente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Campo nombre ciente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Campo numero ciente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 4125097576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boton para mostrar carta del cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action Card - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Vista del cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action Card - Property Caption</note>
+          <target>Vista del cliente</target>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 1849036665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boton para holaMundo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action holaMundo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 1849036665 - Method 1377591017 - NamedType 2922837307" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hello world %1</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hola mundo %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action holaMundo - Method OnAction - NamedType hellolblMsg</note>
+          <target>Hola mundo %1</target>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 2859009388 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boton para crear nuevo cliente</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action NewCustomer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 873458994 - Action 2859009388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Customer</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear cliente nuevo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customers PRUEBACURSO - Action NewCustomer - Property Caption</note>
+          <target>Crear cliente nuevo</target>
+        </trans-unit>
+        <trans-unit id="Page 2615344559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clientttte</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer_formacion2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Info Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Informacion del producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Property Caption</note>
+          <target>Informacion del producto</target>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 2105307182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Inventory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 2454573350 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Existencia de sustitutivo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Substitutes Exist - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unidad de medida base</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 3123169861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº ruta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Routing No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº proveedor del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripcion del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 381961415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coste unitario del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Unit Cost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 749421999 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Precio venta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InfoProduct - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modifica el producto seleccionado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Property Caption</note>
+          <target>Modifica el producto seleccionado</target>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 2105307182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Inventory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 2454573350 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Existencia de sustitutivo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Substitutes Exist - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unidad de medida base</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 3123169861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº ruta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Routing No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nº proveedor del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripcion del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 381961415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coste unitario del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Unit Cost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2418467037 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Precio venta del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ModifyProduct - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2438833081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pagina Nacionalidades</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Nacionalidades - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items_formacion</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Productos Formación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Property Caption</note>
+          <target>Productos Formación</target>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unidad de medida base</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Descripcion del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero de indentificacion del producto</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Action 3109977918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create order</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear pedido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Action CreateOrder - Property Caption</note>
+          <target>Crear pedido</target>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Action 749421999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Info Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Informacion del producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Action InfoProduct - Property Caption</note>
+          <target>Informacion del producto</target>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Action 2418467037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modifica tu producto selecionado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Action ModifyProduct - Property Caption</note>
+          <target>Modifica tu producto selecionado</target>
+        </trans-unit>
+        <trans-unit id="Page 2123758343 - Action 3880868169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crea un nuevo producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductosList - Action NewProduct - Property Caption</note>
+          <target>Crea un nuevo producto</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1918607627 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Create order</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear pedido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemList_PRUEBACURSO - Action ActionName - Property Caption</note>
+          <target>Crear pedido</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3367723895 - Field 2611519686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Location Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre de localización"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerPRUEBACURSO - Field LocalizationName_PRUEBACURSO - Property Caption</note>
+          <target>Nombre de localización</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3367723895 - Field 3632358015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Locatiooon</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ubicación servicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerPRUEBACURSO - Field Localization_PRUEBACURSO - Property Caption</note>
+          <target>Ubicación servicio</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3367723895 - Change 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Direccion prueba</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion prueba esp"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerPRUEBACURSO - Change Address - Property Caption</note>
+          <target>Direccion prueba esp</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

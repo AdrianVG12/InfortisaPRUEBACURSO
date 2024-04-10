@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.FileNamePattern": "<ObjectTypeShort> <ObjectId> - <ObjectName>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectTypeShort>Ext <BaseId> - <BaseName>Ext.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectType> <BaseId> - <ObjectName>Ext.al",
+    "CRS.RenameWithGit": true,
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${PerTenantExtensionCop}",
+        "${UICop}"
+    ]
+    ,
+    "al.ruleSetPath": "./plantilla.ruleset.json"
+}
