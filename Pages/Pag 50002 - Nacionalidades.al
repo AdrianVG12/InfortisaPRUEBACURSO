@@ -1,6 +1,6 @@
 page 50002 "Nacionalidades"
 {
-    Caption = 'Pagina Nacionalidaades';
+    Caption = 'Pagina Nacionalidades';
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Administration;
